@@ -1,8 +1,8 @@
 {
-  "name": "blog",
-  "description": "Calpa's Blog",
+  "name": "Midlife Coder",
+  "description": "Midlife Coder",
   "version": "1.0.0",
-  "author": "Calpa Liu <calpaliu@gmail.com>",
+  "author": "Midlife Coder <aaron@midlifecoder.dev>",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.4",
     "@fortawesome/free-brands-svg-icons": "^5.3.1",
@@ -30,11 +30,7 @@
     "gatsby-plugin-sass": "^2.0.11",
     "gatsby-plugin-sentry": "^1.0.0",
     "gatsby-plugin-sitemap": "^2.0.10",
-<<<<<<< HEAD
     "gatsby-plugin-webpack-bundle-analyzer": "^1.0.5",
-=======
-    "gatsby-plugin-webpack-bundle-analyzer": "^1.0.3",
->>>>>>> 670b9603c9b91a27aa17968087c122be74be98d5
     "gatsby-remark-autolink-headers": "^2.0.16",
     "gatsby-remark-external-links": "0.0.4",
     "gatsby-remark-prismjs": "^3.2.6",
